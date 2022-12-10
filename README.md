@@ -62,7 +62,7 @@ npm run server
 
 ## Build & Deploy
 
-URL: https://my-e-dukan.herokuapp.com/
+URL: https://e-dukan.onrender.com/
 
 Sample User Logins
 
